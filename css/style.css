@@ -1,0 +1,46 @@
+
+
+.header {
+
+	display:flex;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid black;
+
+
+}
+
+.topnav {
+
+	display: flex-inline;
+	margin: 30px 10px;
+	
+}
+
+.topnav a {
+		/* border: 1px solid black; */
+		
+		padding: 0px 5px;
+		color: black;
+}
+
+
+.logo {
+	
+	/* border: 1px solid black;*/
+
+	color: MediumAquamarine;
+	margin-right:auto;
+	margin-left:10px;
+
+}
+
+img  {
+	/*border: 1px dotted green; */
+
+}
